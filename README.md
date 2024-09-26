@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gpunit2417&label=Profile%20views&color=0e75b6&style=flat" alt="gpunit2417" /> </p>
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpunit2417" alt="gpunit2417" /></a> </p>
-<img align="right" alt="Coding" width="400" height="250" margin="-5" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"/>
+<img align="center" alt="Coding" width="400" height="250" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"/>
 - 📫 How to reach me <a href="mailto:punitgoyal106@gmail.com">punitgoyal106@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
